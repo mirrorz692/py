@@ -1,4 +1,3 @@
 import os
 
-os.system("cd a")
-os.system("ls")
+os.system("ls /app")
