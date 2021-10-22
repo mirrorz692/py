@@ -1,2 +1,2 @@
 worker: python start.py
-web: main.js
+web: node main.js
